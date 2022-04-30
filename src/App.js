@@ -1,0 +1,13 @@
+import React from 'react'
+import MainPage from './components/MainPage'
+import './components/mainPage.css'
+
+const App = () => {
+  return (
+    <>
+    <MainPage/>
+    </>
+  )
+}
+
+export default App
